@@ -4,8 +4,7 @@ end
 
 def using_sort(array)
 array = ["Ready,","set,","go!"]
-sorted_array = array.sort
-p sorted_array
+p array.sort
 end
 
 def using_reverse(array)
