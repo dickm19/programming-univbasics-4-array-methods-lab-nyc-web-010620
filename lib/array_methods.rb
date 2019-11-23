@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-array = ["wow","I","am"]
+array = ["wow","I","am", "really", "learning", "arrays"]
 p array.sort
 end
 
